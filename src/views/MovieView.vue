@@ -1,7 +1,7 @@
 <template>
   <HeaderCont />
-  <TitleCont name1="About" name2="Api" />
-  <div>about</div>
+  <TitleCont name1="Movie" name2="Api" />
+  <div>movie</div>
   <ContactCont />
   <FooterCont />
 </template>
